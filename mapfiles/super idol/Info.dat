@@ -59,7 +59,6 @@
             },
             "_requirements" : [
               "Chroma",
-              "Mapping Extensions",
               "Noodle Extensions"
             ],
             "_suggestions" : [
