@@ -1,0 +1,68 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "icantbelieveiletyougetaway",
+  "_songSubName" : "",
+  "_songAuthorName" : "aldn",
+  "_levelAuthorName" : "riskyrizey",
+  "_beatsPerMinute" : 122,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "icbilyga.png",
+  "_songFilename" : "icbilyga.ogg",
+  "_environmentName" : "DefaultEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+  ],
+  "_colorSchemes" : [
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.11.793"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Lawless",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Expert",
+          "_difficultyRank" : 7,
+          "_beatmapFilename" : "ExpertLawless.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_difficultyLabel" : "you left the lights on in your room",
+            "_settings" : {
+              "_environments" : {
+                "_overrideEnvironments" : false
+              },
+              "_playerOptions" : {
+                "_noFailEffects" : true,
+                "_noTextsAndHuds" : false
+              },
+              "_chroma" : {
+                "_disableChromaEvents" : false,
+                "_disableEnvironmentEnhancements" : false
+              }
+            },
+            "_information" : [
+              "Turn off JDFixer or BS+ JD or this map might not work right."
+            ],
+            "_requirements" : [
+              "Chroma",
+              "Noodle Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
