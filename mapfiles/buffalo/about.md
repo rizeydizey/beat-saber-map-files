@@ -1,1 +1,1 @@
-/// new map coming (probably) soon :3
+new map coming (probably) soon :3
