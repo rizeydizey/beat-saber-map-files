@@ -1,0 +1,72 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "Super Idol 的笑容都没你的甜",
+  "_songSubName" : "Schwank's easiest 96​.​41% of my life Remix",
+  "_songAuthorName" : "Schwank",
+  "_levelAuthorName" : "Saltyfish & riskyrizey",
+  "_beatsPerMinute" : 200,
+  "_previewStartTime" : 19,
+  "_previewDuration" : 15,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "cum.jpg",
+  "_songFilename" : "Super Id.ogg",
+  "_environmentName" : "PanicEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+  ],
+  "_colorSchemes" : [
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.11.793"
+      }
+    },
+    "_contributors" : [
+      {
+        "_name" : "Rotech",
+        "_role" : "playtesting (sorry rotech)",
+        "_iconPath" : "rotech.png"
+      },
+      {
+        "_name" : "Frosstbytee",
+        "_role" : "playtesting (seeing if this causes a black hole)",
+        "_iconPath" : "frosstbytee.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Lawless",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Expert",
+          "_difficultyRank" : 7,
+          "_beatmapFilename" : "ExpertLawless.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_difficultyLabel" : "Super Idol 的笑容都没你的甜",
+            "_settings" : {
+              "_environments" : {
+                "_overrideEnvironments" : false
+              }
+            },
+            "_requirements" : [
+              "Chroma",
+              "Noodle Extensions"
+            ],
+            "_suggestions" : [
+              "Chroma Lighting Events"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
